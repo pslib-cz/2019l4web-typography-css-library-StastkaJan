@@ -12,11 +12,11 @@ button {
 }
 
 html {
-  font-size:18px;
+  font-size:17px;
   font-family:'Roboto', sans-serif;
 }
 body {
-  line-height:1.6;
+  line-height:1.5;
   margin:0; 
   padding:2rem 2rem 5rem;
   max-width:33rem;
@@ -37,18 +37,16 @@ h3,
 h4,
 h5,
 h6 {
-  margin:1.5rem 0 0.8rem;
+  margin:2rem 0 1rem;
 }
 
 h1 {
-  font-size:3.2rem;
+  font-size:2.5rem;
   line-height:1.35;
-  font-style:normal;
 }
 
 h2 {
-  font-weight:bold;
-  font-size:2rem;
+  font-size:1.8rem;
 }
 
 h3 {
@@ -78,8 +76,7 @@ h6 {
 
 p {
   margin:.5rem;
-  text-indent:1.5rem;
-  font-family:georgia, serif; 
+  text-indent:1rem;
 }
 
 blockquote {
@@ -119,7 +116,7 @@ pre {
 
 @media print {
   html {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
   }
   body {
     background:#fff !important;
