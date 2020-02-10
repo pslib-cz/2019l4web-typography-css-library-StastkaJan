@@ -19,7 +19,7 @@
 ### Instalation
 1. Download typography.css
 2. Link it to your page
-3. Complete - all included HTML elements are now edited
+3. Completed - all included HTML elements are now edited
 
 ### Usage
 You don't have to do anything.
