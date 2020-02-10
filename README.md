@@ -16,13 +16,13 @@
 - img
 - button
 
-### Instalation
+### Installation
 1. Download typography.css
 2. Link it to your page
 3. Completed - all included HTML elements are now edited
 
 ### Usage
-You don't have to do anything.
+You don't have to do anything more than installation.
 
 ### Credits
 This work was create by [Jan Šťástka](https://jsweb.pslib.cloud/).
