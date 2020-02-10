@@ -22,7 +22,7 @@
 3. Complete - all included HTML elements are now edited
 
 ### Usage
-yYu don't have to do anything.
+You don't have to do anything.
 
 ### Credits
 This work was create by [Jan Šťástka](https://jsweb.pslib.cloud/).
