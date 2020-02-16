@@ -1,5 +1,5 @@
 # Typography.css
-## CSS typography template for your blog
+CSS typography template for your blog
 
 ## TABLE OF CONTENT
 
