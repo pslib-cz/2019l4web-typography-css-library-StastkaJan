@@ -1,6 +1,13 @@
 # Typography.css
 ## CSS typography template for your blog
 
+## TABLE OF CONTENT
+
+1. [Included HTML elements](#Included-HTML-elements)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [Credits](#Credits)
+
 ### Included HTML elements
 - p
 - blockquote
